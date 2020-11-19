@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Full-stack development
-- 🌱 I’m currently learning JavaScript, Python and Java
-- 👯 I’m looking to collaborate on Organizations
-- 🤔 I’m looking for help with Development
-- 💬 Ask me about anything, I'm good with googling
+- 🔭 Currently working on Full-stack development
+- 🌱 Currently learning JavaScript, Python and Java
+- 👯 Looking to collaborate on Organizations
+- 🤔 Looking for help with Development
+- 💬 Ask me anything, I'm good with googling
 - 📫 How to reach me: 
      devanshu.yadav1910@gmail.com
      instagram.com/i_am_yadavdev
