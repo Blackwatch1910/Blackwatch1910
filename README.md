@@ -12,17 +12,18 @@
 
 - 👯 I’m looking to collaborate on **software development projects**
 
-- 👨‍💻 All of my projects are available at [https://vibrant-haibt-e649e0.netlify.app/](https://vibrant-haibt-e649e0.netlify.app/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://vibrant-haibt-e649e0.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@dcoolguydev/want-to-start-with-web-development-5787d5ead01a](https://medium.com/@dcoolguydev/want-to-start-with-web-development-5787d5ead01a)
-
-- 💬 Ask me about **Web dev? I love it too :)**
+- 📝 I regularly write articles on [Medium](https://medium.com/@dcoolguydev/want-to-start-with-web-development-5787d5ead01a), [dev.to](https://dev.to/blackwatch1910) and [hashnode](https://hashnode.com/@Blackwatch1910)
 
 - 📫 How to reach me **devanshu.yadav1910@gmail.com**
 
-- 📄 Know about my experiences [https://cutt.ly/clmVn9g](https://cutt.ly/clmVn9g)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1F90F33DcCjRaLJ_qnH3n-bN3ilWW5q01/view?usp=sharing)
 
 - ⚡ Fun fact **Give me a cup of coffee, I'll write you code.**
+
+- 🎹 Explore my other side [here](https://www.youtube.com/channel/UCCdKbJnEf5dKrmc6MvocnPQ)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
